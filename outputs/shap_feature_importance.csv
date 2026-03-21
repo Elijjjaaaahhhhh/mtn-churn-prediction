@@ -1,0 +1,21 @@
+feature_name,mean_abs_shap,rank
+days_since_last_recharge,0.751211,1
+tenure_months,0.632118,2
+state_churn_rate,0.617368,3
+network_complaint_flag,0.245429,4
+recharge_recency_encoded,0.210617,5
+competitor_sim_detected,0.182152,6
+recharge_frequency_30d,0.164413,7
+avg_recharge_value_naira,0.157033,8
+channel_MTN App,0.142313,9
+number_portability_flag,0.101101,10
+channel_Bank Transfer,0.098374,11
+customer_service_contacts_30d,0.09833,12
+tariff_XtraSpecial,0.094332,13
+data_mb_consumed_30d,0.091752,14
+tariff_XtraValue,0.08728,15
+bundle_Social Media Bundle,0.069058,16
+tariff_MTNPulse,0.060307,17
+ussd_sessions_30d,0.047676,18
+sms_count_30d,0.0446,19
+channel_USSD,0.038677,20
